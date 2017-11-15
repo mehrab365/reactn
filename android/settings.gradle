@@ -1,0 +1,3 @@
+rootProject.name = 'reactn'
+
+include ':app'
